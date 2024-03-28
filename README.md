@@ -1,3 +1,3 @@
 # Unity Game
-This game is a result of a group project I and two of my friends did in our firs semester. 
-It's a roug-like shooter game heavily inspired by titles like The binding of Isaack.
+This game is a result of a group project of mine and my two friends we did during our first semester. 
+It's a rouge-like shooter game, heavily inspired by titles like The binding of Isaac.
